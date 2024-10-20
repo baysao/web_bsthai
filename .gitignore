@@ -1,4 +1,5 @@
 logs/
+app/node_modules/
 client_body_temp/
 fastcgi_temp/
 proxy_temp/
