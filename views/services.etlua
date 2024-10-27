@@ -1,0 +1,130 @@
+  <div class="main-content-area">
+
+      <section class="page-title layer-overlay overlay-dark-9 section-typo-light bg-img-center"
+        data-tm-bg-img="images/bg/bg1.jpg">
+        <div class="container">
+          <div class="section-content">
+            <div class="row">
+              <div class="col-md-12 text-center">
+                <h2 class="title">Services</h2>
+                <nav class="breadcrumbs" role="navigation" aria-label="Breadcrumbs">
+                  <div class="breadcrumbs">
+                    <span><a href="#" rel="home">Home</a></span>
+                    <span><i class="fa fa-angle-right"></i></span>
+                    <span><a href="#">Pages</a></span>
+                    <span><i class="fa fa-angle-right"></i></span>
+                    <span class="active">Page Title</span>
+                  </div>
+                </nav>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section>
+        <div class="container">
+          <div class="section-content">
+            <div class="row">
+              <div class="col-md-6 col-lg-6 col-xl-4">
+                <div class="tm-sc-services services-style-current-theme2">
+                  <div class="tm-service">
+                    <div class="thumb">
+                      <img src="images/services/ws1.jpg" alt="image">
+                      <a href="#" class="icon bg-theme-colored1"><i class="flaticon-medical-ambulance14"></i></a>
+                    </div>
+                    <div class="content">
+                      <h4 class="mt-0 font-20">Emergency Care</h4>
+                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem voluptatem obcaecati!</p>
+                      <a class="text-black-999 text-hover-theme-colored1" href="#"><i
+                          class="fa fa-angle-double-right"></i> Read more</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6 col-lg-6 col-xl-4">
+                <div class="tm-sc-services services-style-current-theme2">
+                  <div class="tm-service">
+                    <div class="thumb">
+                      <img src="images/services/ws2.jpg" alt="image">
+                      <a href="#" class="icon bg-theme-colored1"><i class="flaticon-medical-stethoscope10"></i></a>
+                    </div>
+                    <div class="content">
+                      <h4 class="mt-0 font-20">Outdoor Checkup</h4>
+                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem voluptatem obcaecati!</p>
+                      <a class="text-black-999 text-hover-theme-colored1" href="#"><i
+                          class="fa fa-angle-double-right"></i> Read more</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6 col-lg-6 col-xl-4">
+                <div class="tm-sc-services services-style-current-theme2">
+                  <div class="tm-service">
+                    <div class="thumb">
+                      <img src="images/services/ws3.jpg" alt="image">
+                      <a href="#" class="icon bg-theme-colored1"><i class="flaticon-medical-hospital35"></i></a>
+                    </div>
+                    <div class="content">
+                      <h4 class="mt-0 font-20">Blood Test</h4>
+                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem voluptatem obcaecati!</p>
+                      <a class="text-black-999 text-hover-theme-colored1" href="#"><i
+                          class="fa fa-angle-double-right"></i> Read more</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6 col-lg-6 col-xl-4">
+                <div class="tm-sc-services services-style-current-theme2">
+                  <div class="tm-service">
+                    <div class="thumb">
+                      <img src="images/services/ws4.jpg" alt="image">
+                      <a href="#" class="icon bg-theme-colored1"><i class="flaticon-medical-illness"></i></a>
+                    </div>
+                    <div class="content">
+                      <h4 class="mt-0 font-20">Operation Theatre</h4>
+                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem voluptatem obcaecati!</p>
+                      <a class="text-black-999 text-hover-theme-colored1" href="#"><i
+                          class="fa fa-angle-double-right"></i> Read more</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6 col-lg-6 col-xl-4">
+                <div class="tm-sc-services services-style-current-theme2">
+                  <div class="tm-service">
+                    <div class="thumb">
+                      <img src="images/services/ws5.jpg" alt="image">
+                      <a href="#" class="icon bg-theme-colored1"><i class="flaticon-medical-tablets9"></i></a>
+                    </div>
+                    <div class="content">
+                      <h4 class="mt-0 font-20">Cancer Service</h4>
+                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem voluptatem obcaecati!</p>
+                      <a class="text-black-999 text-hover-theme-colored1" href="#"><i
+                          class="fa fa-angle-double-right"></i> Read more</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6 col-lg-6 col-xl-4">
+                <div class="tm-sc-services services-style-current-theme2">
+                  <div class="tm-service">
+                    <div class="thumb">
+                      <img src="images/services/ws6.jpg" alt="image">
+                      <a href="#" class="icon bg-theme-colored1"><i class="flaticon-medical-medical51"></i></a>
+                    </div>
+                    <div class="content">
+                      <h4 class="mt-0 font-20">ICU Service</h4>
+                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem voluptatem obcaecati!</p>
+                      <a class="text-black-999 text-hover-theme-colored1" href="#"><i
+                          class="fa fa-angle-double-right"></i> Read more</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+    </div>

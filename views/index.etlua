@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+
+<% render("views.head") %>
+
+<body class="tm-container-1300px has-side-panel side-panel-right">
+  <div class="side-panel-body-overlay"></div>
+ <% render("views.side-panel") %>
+  <div id="wrapper" class="clearfix">
+  <% render("views.header") %>
+   <% render(current_view) %>
+   <% render("views.footer")%>
+   <a class="scrollToTop" href="#"><i class="fa fa-angle-up"></i></a>
+  </div>
+<% render("views.foot") %>
+</body>
+
+</html>
