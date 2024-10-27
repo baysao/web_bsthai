@@ -1,0 +1,306 @@
+ <div class="main-content-area">
+
+      <section class="page-title divider layer-overlay overlay-dark-8 section-typo-light"
+        data-tm-bg-img="images/bg/bg1.jpg">
+        <div class="container pt-90 pb-90">
+
+          <div class="section-content">
+            <div class="row">
+              <div class="col-md-12 text-center">
+                <h2 class="title text-white">Team Grid</h2>
+                <nav role="navigation" class="breadcrumb-trail breadcrumbs">
+                  <div class="breadcrumbs">
+                    <span class="trail-item trail-begin"><a href="#"><span>Home</span></a></span>
+                    <span><i class="fa fa-angle-right"></i></span>
+                    <span class="trail-item"><a href="#"><span>Pages</span></a></span>
+                    <span><i class="fa fa-angle-right"></i></span>
+                    <span class="trail-item trail-end active">Team Grid</span>
+                  </div>
+                </nav>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="bg-white-f5">
+        <div class="container">
+          <div class="section-content">
+            <div class="row">
+              <div class="col-sm-12">
+                <div class="tm-sc-staff tm-sc-staff-carousel staff-style3-modern owl-dots-light-skin owl-dots-center">
+
+                  <div id="staff-holder-945632" class="owl-carousel owl-theme tm-owl-carousel-4col" data-nav="true"
+                    data-dots="true" data-autoplay="true" data-loop="true" data-duration="6000" data-smartspeed="300"
+                    data-margin="30" data-stagepadding="0">
+
+                    <div class="tm-carousel-item">
+                      <div class="tm-staff">
+                        <div class="staff-inner">
+                          <div class="box-hover-effect">
+                            <div class="staff-header effect-wrapper">
+                              <div class="thumb">
+                                <img src="images/team/t1.jpg" class="img-fullwidth" alt="images" />
+                              </div>
+                              <div class="overlay-shade shade-white"></div>
+                              <div class="icons-holder icons-holder-middle">
+                                <div class="icons-holder-inner">
+                                  <ul class="styled-icons icon-theme-colored1 icon-circled icon-xl">
+                                    <li><a class="styled-icons-item" target="_blank" href="#"><i
+                                          class="fa fa-link"></i></a></li>
+                                  </ul>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="staff-content">
+                              <h5 class="name"><a href="#">Maria Angel</a></h5>
+                              <div class="speciality">Dentist</div>
+                              <ul class="contact-info"></ul>
+                              <div class="staff-working-hours">
+                                <ul class="working-hours">
+                                  <li class="clearfix">
+                                    <span>Monday - Friday</span>
+                                    <div class="value">8.00 - 17.00</div>
+                                  </li>
+                                  <li class="clearfix">
+                                    <span>Saturday</span>
+                                    <div class="value">9.00 - 16.00</div>
+                                  </li>
+                                </ul>
+                              </div>
+                              <ul class="styled-icons icon-dark icon-theme-colored1 icon-circled icon-sm">
+                                <li><a class="styled-icons-item" target="_blank" href="#"><i
+                                      class="fab fa-facebook"></i></a></li>
+                                <li><a class="styled-icons-item" target="_blank" href="#"><i
+                                      class="fab fa-instagram"></i></a></li>
+                                <li><a class="styled-icons-item" target="_blank" href="#"><i
+                                      class="fab fa-linkedin"></i></a></li>
+                                <li><a class="styled-icons-item" target="_blank" href="#"><i
+                                      class="fab fa-skype"></i></a></li>
+                              </ul>
+                              <div class="staff-btn">
+                                <div class="clearfix"></div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="tm-carousel-item">
+                      <div class="tm-staff">
+                        <div class="staff-inner">
+                          <div class="box-hover-effect">
+                            <div class="staff-header effect-wrapper">
+                              <div class="thumb">
+                                <img src="images/team/t2.jpg" class="img-fullwidth" alt="images" />
+                              </div>
+                              <div class="overlay-shade shade-white"></div>
+                              <div class="icons-holder icons-holder-middle">
+                                <div class="icons-holder-inner">
+                                  <ul class="styled-icons icon-theme-colored1 icon-circled icon-xl">
+                                    <li><a class="styled-icons-item" target="_blank" href="#"><i
+                                          class="fa fa-link"></i></a></li>
+                                  </ul>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="staff-content">
+                              <h5 class="name"><a href="#">Jason Jack</a></h5>
+                              <div class="speciality">Cardiologist</div>
+                              <ul class="contact-info"></ul>
+                              <div class="staff-working-hours">
+                                <ul class="working-hours">
+                                  <li class="clearfix">
+                                    <span>Monday - Friday</span>
+                                    <div class="value">8.00 - 17.00</div>
+                                  </li>
+                                  <li class="clearfix">
+                                    <span>Saturday</span>
+                                    <div class="value">9.00 - 16.00</div>
+                                  </li>
+                                </ul>
+                              </div>
+                              <ul class="styled-icons icon-dark icon-theme-colored1 icon-circled icon-sm">
+                                <li><a class="styled-icons-item" target="_blank" href="#"><i
+                                      class="fab fa-facebook"></i></a></li>
+                                <li><a class="styled-icons-item" target="_blank" href="#"><i
+                                      class="fab fa-instagram"></i></a></li>
+                                <li><a class="styled-icons-item" target="_blank" href="#"><i
+                                      class="fab fa-linkedin"></i></a></li>
+                                <li><a class="styled-icons-item" target="_blank" href="#"><i
+                                      class="fab fa-skype"></i></a></li>
+                              </ul>
+                              <div class="staff-btn">
+                                <div class="clearfix"></div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="tm-carousel-item">
+                      <div class="tm-staff">
+                        <div class="staff-inner">
+                          <div class="box-hover-effect">
+                            <div class="staff-header effect-wrapper">
+                              <div class="thumb">
+                                <img src="images/team/t3.jpg" class="img-fullwidth" alt="images" />
+                              </div>
+                              <div class="overlay-shade shade-white"></div>
+                              <div class="icons-holder icons-holder-middle">
+                                <div class="icons-holder-inner">
+                                  <ul class="styled-icons icon-theme-colored1 icon-circled icon-xl">
+                                    <li><a class="styled-icons-item" target="_blank" href="#"><i
+                                          class="fa fa-link"></i></a></li>
+                                  </ul>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="staff-content">
+                              <h5 class="name"><a href="#">Eliz Thopper</a></h5>
+                              <div class="speciality">Cardiologist</div>
+                              <ul class="contact-info"></ul>
+                              <div class="staff-working-hours">
+                                <ul class="working-hours">
+                                  <li class="clearfix">
+                                    <span>Monday - Friday</span>
+                                    <div class="value">8.00 - 17.00</div>
+                                  </li>
+                                  <li class="clearfix">
+                                    <span>Saturday</span>
+                                    <div class="value">9.00 - 16.00</div>
+                                  </li>
+                                </ul>
+                              </div>
+                              <ul class="styled-icons icon-dark icon-theme-colored1 icon-circled icon-sm">
+                                <li><a class="styled-icons-item" target="_blank" href="#"><i
+                                      class="fab fa-facebook"></i></a></li>
+                                <li><a class="styled-icons-item" target="_blank" href="#"><i
+                                      class="fab fa-instagram"></i></a></li>
+                                <li><a class="styled-icons-item" target="_blank" href="#"><i
+                                      class="fab fa-linkedin"></i></a></li>
+                                <li><a class="styled-icons-item" target="_blank" href="#"><i
+                                      class="fab fa-skype"></i></a></li>
+                              </ul>
+                              <div class="staff-btn">
+                                <div class="clearfix"></div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="tm-carousel-item">
+                      <div class="tm-staff">
+                        <div class="staff-inner">
+                          <div class="box-hover-effect">
+                            <div class="staff-header effect-wrapper">
+                              <div class="thumb">
+                                <img src="images/team/t4.jpg" class="img-fullwidth" alt="images" />
+                              </div>
+                              <div class="overlay-shade shade-white"></div>
+                              <div class="icons-holder icons-holder-middle">
+                                <div class="icons-holder-inner">
+                                  <ul class="styled-icons icon-theme-colored1 icon-circled icon-xl">
+                                    <li><a class="styled-icons-item" target="_blank" href="#"><i
+                                          class="fa fa-link"></i></a></li>
+                                  </ul>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="staff-content">
+                              <h5 class="name"><a href="#">Jason Thomas</a></h5>
+                              <div class="speciality">Neurologiest</div>
+                              <ul class="contact-info">
+                              </ul>
+                              <div class="staff-working-hours">
+                                <ul class="working-hours">
+                                  <li class="clearfix">
+                                    <span>Monday - Friday</span>
+                                    <div class="value">8.00 - 17.00</div>
+                                  </li>
+                                  <li class="clearfix">
+                                    <span>Saturday</span>
+                                    <div class="value">9.00 - 16.00</div>
+                                  </li>
+                                </ul>
+                              </div>
+                              <ul class="styled-icons icon-dark icon-theme-colored1 icon-circled icon-sm">
+                                <li><a class="styled-icons-item" target="_blank" href="#"><i
+                                      class="fab fa-facebook"></i></a></li>
+                                <li><a class="styled-icons-item" target="_blank" href="#"><i
+                                      class="fab fa-instagram"></i></a></li>
+                                <li><a class="styled-icons-item" target="_blank" href="#"><i
+                                      class="fab fa-linkedin"></i></a></li>
+                                <li><a class="styled-icons-item" target="_blank" href="#"><i
+                                      class="fab fa-skype"></i></a></li>
+                              </ul>
+                              <div class="staff-btn">
+                                <div class="clearfix"></div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="tm-carousel-item">
+                      <div class="tm-staff">
+                        <div class="staff-inner">
+                          <div class="box-hover-effect">
+                            <div class="staff-header effect-wrapper">
+                              <div class="thumb">
+                                <img src="images/team/t2.jpg" class="img-fullwidth" alt="images" />
+                              </div>
+                              <div class="overlay-shade shade-white"></div>
+                              <div class="icons-holder icons-holder-middle">
+                                <div class="icons-holder-inner">
+                                  <ul class="styled-icons icon-theme-colored1 icon-circled icon-xl">
+                                    <li><a class="styled-icons-item" target="_blank" href="#"><i
+                                          class="fa fa-link"></i></a></li>
+                                  </ul>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="staff-content">
+                              <h5 class="name"><a href="#">Jason Jack</a></h5>
+                              <div class="speciality">Cardiologist</div>
+                              <ul class="contact-info"></ul>
+                              <div class="staff-working-hours">
+                                <ul class="working-hours">
+                                  <li class="clearfix">
+                                    <span>Monday - Friday</span>
+                                    <div class="value">8.00 - 17.00</div>
+                                  </li>
+                                  <li class="clearfix">
+                                    <span>Saturday</span>
+                                    <div class="value">9.00 - 16.00</div>
+                                  </li>
+                                </ul>
+                              </div>
+                              <ul class="styled-icons icon-dark icon-theme-colored1 icon-circled icon-sm">
+                                <li><a class="styled-icons-item" target="_blank" href="#"><i
+                                      class="fab fa-facebook"></i></a></li>
+                                <li><a class="styled-icons-item" target="_blank" href="#"><i
+                                      class="fab fa-instagram"></i></a></li>
+                                <li><a class="styled-icons-item" target="_blank" href="#"><i
+                                      class="fab fa-linkedin"></i></a></li>
+                                <li><a class="styled-icons-item" target="_blank" href="#"><i
+                                      class="fab fa-skype"></i></a></li>
+                              </ul>
+                              <div class="staff-btn">
+                                <div class="clearfix"></div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+    </div>
