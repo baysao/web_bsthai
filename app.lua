@@ -11,6 +11,16 @@ app:get("/services", function(self)
 end)
 app:get("/team", function(self)
   self.current_view = "views.team"
+  self.members = db["member.json"]
+  return { render = "index"}
+end)
+
+app:get("/member/:member", function(self)
+  
+  self.current_view = "views.member"
+  -- ngx.log(ngx.ERR, self.params.member)
+  self.member = db["member.json"][self.params.member]
+  -- ngx.log(ngx.ERR, json.encode(self.member))
   return { render = "index"}
 end)
 app:get("/faq", function(self)

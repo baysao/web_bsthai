@@ -30,7 +30,7 @@
                 <div class="tm-sc-services services-style-current-theme2">
                   <div class="tm-service">
                     <div class="thumb">
-                      <img src="images/services/ws1.jpg" alt="image">
+                      <img src="/images/services/ws1.jpg" alt="image">
                       <a href="#" class="icon bg-theme-colored1"><i class="flaticon-medical-ambulance14"></i></a>
                     </div>
                     <div class="content">
@@ -46,7 +46,7 @@
                 <div class="tm-sc-services services-style-current-theme2">
                   <div class="tm-service">
                     <div class="thumb">
-                      <img src="images/services/ws2.jpg" alt="image">
+                      <img src="/images/services/ws2.jpg" alt="image">
                       <a href="#" class="icon bg-theme-colored1"><i class="flaticon-medical-stethoscope10"></i></a>
                     </div>
                     <div class="content">
@@ -62,7 +62,7 @@
                 <div class="tm-sc-services services-style-current-theme2">
                   <div class="tm-service">
                     <div class="thumb">
-                      <img src="images/services/ws3.jpg" alt="image">
+                      <img src="/images/services/ws3.jpg" alt="image">
                       <a href="#" class="icon bg-theme-colored1"><i class="flaticon-medical-hospital35"></i></a>
                     </div>
                     <div class="content">
@@ -78,7 +78,7 @@
                 <div class="tm-sc-services services-style-current-theme2">
                   <div class="tm-service">
                     <div class="thumb">
-                      <img src="images/services/ws4.jpg" alt="image">
+                      <img src="/images/services/ws4.jpg" alt="image">
                       <a href="#" class="icon bg-theme-colored1"><i class="flaticon-medical-illness"></i></a>
                     </div>
                     <div class="content">
@@ -94,7 +94,7 @@
                 <div class="tm-sc-services services-style-current-theme2">
                   <div class="tm-service">
                     <div class="thumb">
-                      <img src="images/services/ws5.jpg" alt="image">
+                      <img src="/images/services/ws5.jpg" alt="image">
                       <a href="#" class="icon bg-theme-colored1"><i class="flaticon-medical-tablets9"></i></a>
                     </div>
                     <div class="content">
@@ -110,7 +110,7 @@
                 <div class="tm-sc-services services-style-current-theme2">
                   <div class="tm-service">
                     <div class="thumb">
-                      <img src="images/services/ws6.jpg" alt="image">
+                      <img src="/images/services/ws6.jpg" alt="image">
                       <a href="#" class="icon bg-theme-colored1"><i class="flaticon-medical-medical51"></i></a>
                     </div>
                     <div class="content">

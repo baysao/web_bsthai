@@ -5,7 +5,7 @@
             <div class="col-md-6 col-lg-6 col-xl-3">
               <div class="tm-widget-contact-info contact-info-style1 contact-icon-theme-colored1">
                 <div class="thumb">
-                  <img alt="Logo" src="images/logo-wide-white.png">
+                  <img alt="Logo" src="/images/logo-wide-white.png">
                 </div>
                 <div class="description">203, Envato Labs, Behind Alis Steet, Melbourne, Australia.immersion along the
                   information close the loop on focusing</div>
@@ -22,7 +22,7 @@
                 <h4 class="widget-title widget-title-line-bottom line-bottom-theme-colored1">Latest News</h4>
                 <div class="latest-posts">
                   <article class="post clearfix pb-0 mb-20">
-                    <a class="post-thumb" href="news-details.html"><img src="images/blog/square1.jpg" alt="images"></a>
+                    <a class="post-thumb" href="news-details.html"><img src="/images/blog/square1.jpg" alt="images"></a>
                     <div class="post-right">
                       <h5 class="post-title mt-0"><a href="news-details.html">Sustainable Construction</a></h5>
                       <span class="post-date">
@@ -31,7 +31,7 @@
                     </div>
                   </article>
                   <article class="post clearfix pb-0 mb-20">
-                    <a class="post-thumb" href="news-details.html"><img src="images/blog/square2.jpg" alt="images"></a>
+                    <a class="post-thumb" href="news-details.html"><img src="/images/blog/square2.jpg" alt="images"></a>
                     <div class="post-right">
                       <h5 class="post-title mt-0"><a href="news-details.html">Industrial Coatings</a></h5>
                       <span class="post-date">
@@ -40,7 +40,7 @@
                     </div>
                   </article>
                   <article class="post clearfix pb-0 mb-20">
-                    <a class="post-thumb" href="news-details.html"><img src="images/blog/square3.jpg" alt="images"></a>
+                    <a class="post-thumb" href="news-details.html"><img src="/images/blog/square3.jpg" alt="images"></a>
                     <div class="post-right">
                       <h5 class="post-title mt-0"><a href="news-details.html">Storefront Installations</a></h5>
                       <span class="post-date">
@@ -92,7 +92,7 @@
             <div class="row pt-20 pb-20">
               <div class="col-sm-6">
                 <div class="footer-paragraph">
-                  © 2021 ThemeMascot. All Rights Reserved.
+                  © 2024 Phòng khám Nam khoa Tiết niệu TS Thái. All Rights Reserved.
                 </div>
               </div>
               <div class="col-sm-6">

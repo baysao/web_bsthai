@@ -1,0 +1,57 @@
+  <ul id="main-nav" class="menuzord-menu">
+  <% for i, value in ipairs(menu) do %>
+                      <li class="menu-item"> <a href="#"><%= value.name %></a></li>
+                       <div class="megamenu megamenu-fullwidth megamenu-position-left">
+                          <div class="megamenu-row">
+                            <div class="col4">
+                              <ul class="list-unstyled list-dashed">
+                                <li class="menu-item">
+                                  <a class="tm-submenu-title" href="#"><span>Nam giới học</span></a>
+                                  <ul class="list-unstyled">
+                                    <li><a href="page-faq-style2.html">Vô sinh - hiếm muộn</a></li>
+                                    <li><a href="page-faq-style2.html">Bệnh lý bao quy đầu</a></li>
+                                    <li><a href="page-faq-style2.html">Bệnh lây truyền qua đường tình dục</a></li>
+                                    <li><a href="page-faq-style2.html">Rối loạn cương</a></li>
+                                    <li><a href="page-faq-style2.html">Tránh thai, kế hoạch hoá gia đình</a></li>
+                                    <li><a href="page-faq-style2.html">Giảm ham muốn</a></li>
+                                    <li><a href="page-faq-style2.html">Xuất tinh sớm</a></li>
+                                    
+                                  </ul>
+                                </li>
+                              </ul>
+                            </div>
+                            <div class="col4">
+                              <ul class="list-unstyled list-dashed">
+                                <li class="menu-item">
+                                  <a class="tm-submenu-title" href="#"><span>Tiết niệu học</span></a>
+                                  <ul class="list-unstyled">
+                                    <li><a href="page-faq-style2.html">Sỏi đường tiết niệu</a></li>
+                                    <li><a href="page-faq-style2.html">Bệnh lý tuyến tiền liệt</a></li>
+                                    <li><a href="page-faq-style2.html">Bàng quang tăng hoạt</a></li>
+                                    <li><a href="page-faq-style2.html">Ung bướu đường tiết niệu</a></li>
+                                    <li><a href="page-faq-style2.html">Viêm nhiễm đường tiết niệu</a></li>
+                                  
+                                  </ul>
+                                </li>
+                              </ul>
+                            </div>
+                            <div class="col4">
+                              <ul class="list-unstyled list-dashed">
+                                <li class="menu-item">
+                                  <a class="tm-submenu-title" href="#"><span>LGBTQ+</span></a>
+                                  <ul class="list-unstyled">
+                                    <li><a href="page-faq-style2.html">Hỗ trợ tâm lý</a></li>
+                                    <li><a href="page-faq-style2.html">Tầm soát, phòng ngừa bệnh lây truyền qua đường tình dục</a></li>
+                                    <li><a href="page-faq-style2.html">Hormone liệu pháp</a></li>
+                                   
+                                  
+                                  </ul>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
+                       
+
+                      <% end %>
+                     </ul>

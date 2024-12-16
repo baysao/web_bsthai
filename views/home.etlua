@@ -13,7 +13,7 @@
                     <rs-slide data-key="rs-1" data-title="Slide" data-thumb="images/bg/bg24.jpg"
                       data-anim="ei:d;eo:d;s:2590;r:0;t:slidingoverlayleft;sl:d;"
                       data-firstanim="t:slidingoverlayleft;s:1500;">
-                      <img src="images/bg/bg24.jpg" title="rev-s4" width="1920" height="1280" data-bg="p:0% 10%;"
+                      <img src="/images/bg/bg24.jpg" title="rev-s4" width="1920" height="1280" data-bg="p:0% 10%;"
                         data-parallax="12" class="rev-slidebg" data-no-retina>
                       <rs-layer id="slider-1-slide-26-layer-2" class="rs-pxl-1" data-type="text" data-rsp_ch="on"
                         data-xy="x:l,l,l,c;xo:55px,55px,55px,0;y:m;yo:-117px,-110px,-89px,-87px;"
@@ -58,7 +58,7 @@
                     </rs-slide>
                     <rs-slide data-key="rs-27" data-title="Slide" data-thumb="images/bg/bg1.jpg"
                       data-anim="ei:d;eo:d;s:2590;r:0;t:slidingoverlayleft;sl:d;">
-                      <img src="images/bg/bg1.jpg" title="rev-s3" width="1920" height="1280" data-bg="p:0% 10%;"
+                      <img src="/images/bg/bg1.jpg" title="rev-s3" width="1920" height="1280" data-bg="p:0% 10%;"
                         data-parallax="12" class="rev-slidebg" data-no-retina>
                       <rs-layer id="slider-1-slide-27-layer-2" class="rs-pxl-1" data-type="text" data-rsp_ch="on"
                         data-xy="x:c;y:m;yo:-117px,-110px,-89px,-87px;"
@@ -103,7 +103,7 @@
                     </rs-slide>
                     <rs-slide data-key="rs-28" data-title="Slide" data-thumb="images/bg/bg8.jpg"
                       data-anim="ei:d;eo:d;s:2590;r:0;t:slidingoverlayleft;sl:d;">
-                      <img src="images/bg/bg8.jpg" title="rev-s2" width="1920" height="1280" data-bg="p:0% 10%;"
+                      <img src="/images/bg/bg8.jpg" title="rev-s2" width="1920" height="1280" data-bg="p:0% 10%;"
                         data-parallax="12" class="rev-slidebg" data-no-retina>
                       <rs-layer id="slider-1-slide-28-layer-2" class="rs-pxl-1" data-type="text" data-rsp_ch="on"
                         data-xy="x:r,r,r,c;xo:55px,55px,55px,0;y:m;yo:-117px,-110px,-89px,-87px;"
@@ -196,12 +196,12 @@
                     for everyone.</em></p>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque commodi molestiae autem fugit
                   consectetur dolor ullam illo ipsa numquam.</p>
-                <img src="images/signature.png" class="attachment-large" alt="images" />
+                <img src="/images/signature.png" class="attachment-large" alt="images" />
                 <div class="tm-sc-button mt-20"> <a href="#" target="_self" class="btn btn-theme-colored1 btn-sm"> Read
                     more </a></div>
               </div>
               <div class="col-sm-12 col-lg-4 hidden-md-down">
-                <img width="340" height="464" src="images/about/5.png" class="attachment-large" alt="images" />
+                <img width="340" height="464" src="/images/about/5.png" class="attachment-large" alt="images" />
               </div>
             </div>
           </div>
@@ -322,7 +322,7 @@
                 </div>
               </div>
               <div class="col-sm-12 col-md-12 col-lg-5">
-                <img src="images/services/sc4.jpg" class="attachment-full mb-10" alt="images" />
+                <img src="/images/services/sc4.jpg" class="attachment-full mb-10" alt="images" />
                 <div class="accordion tm-accordion accordion-classic accordion-theme-colored1" id="accordion500">
                   <div class="accordion-item">
                     <h2 class="accordion-header" id="heading501">
@@ -394,7 +394,7 @@
                         <div class="staff-inner">
                           <div class="row align-items-center">
                             <div class="col-md-6">
-                              <div class="thumb"> <img src="images/team/t1.jpg" class="img-fullwidth" alt="images" />
+                              <div class="thumb"> <img src="/images/team/t1.jpg" class="img-fullwidth" alt="images" />
                               </div>
                             </div>
                             <div class="col-md-6">
@@ -434,7 +434,7 @@
                         <div class="staff-inner">
                           <div class="row align-items-center">
                             <div class="col-md-6">
-                              <div class="thumb"> <img src="images/team/t2.jpg" class="img-fullwidth" alt="images" />
+                              <div class="thumb"> <img src="/images/team/t2.jpg" class="img-fullwidth" alt="images" />
                               </div>
                             </div>
                             <div class="col-md-6">
@@ -474,7 +474,7 @@
                         <div class="staff-inner">
                           <div class="row align-items-center">
                             <div class="col-md-6">
-                              <div class="thumb"> <img src="images/team/t3.jpg" class="img-fullwidth" alt="images" />
+                              <div class="thumb"> <img src="/images/team/t3.jpg" class="img-fullwidth" alt="images" />
                               </div>
                             </div>
                             <div class="col-md-6">
@@ -514,7 +514,7 @@
                         <div class="staff-inner">
                           <div class="row align-items-center">
                             <div class="col-md-6">
-                              <div class="thumb"> <img src="images/team/t4.jpg" class="img-fullwidth" alt="images" />
+                              <div class="thumb"> <img src="/images/team/t4.jpg" class="img-fullwidth" alt="images" />
                               </div>
                             </div>
                             <div class="col-md-6">
@@ -585,7 +585,7 @@
                 <div
                   class="tm-sc-pricing-table has-label pricing-table-style1 pricing-list-bordered pricing-table-box-shadow text-center mb-lg-60">
                   <div class="pricing-table-thumb">
-                    <div class="thumb bg-theme-colored2"><img src="images/icon/i3.png" alt="Image"></div>
+                    <div class="thumb bg-theme-colored2"><img src="/images/icon/i3.png" alt="Image"></div>
                   </div>
                   <div class="pricing-table-inner-wrapper">
                     <div class="pricing-table-inner">
@@ -613,7 +613,7 @@
                 <div
                   class="tm-sc-pricing-table has-label pricing-table-style1 pricing-list-bordered pricing-table-box-shadow text-center mb-lg-60">
                   <div class="pricing-table-thumb">
-                    <div class="thumb bg-theme-colored2"><img src="images/icon/i2.png" alt="Image"></div>
+                    <div class="thumb bg-theme-colored2"><img src="/images/icon/i2.png" alt="Image"></div>
                   </div>
                   <div class="pricing-table-inner-wrapper">
                     <div class="pricing-table-inner">
@@ -641,7 +641,7 @@
                 <div
                   class="tm-sc-pricing-table has-label pricing-table-style1 pricing-list-bordered pricing-table-box-shadow text-center">
                   <div class="pricing-table-thumb">
-                    <div class="thumb bg-theme-colored2"><img src="images/icon/i1.png" alt="Image"></div>
+                    <div class="thumb bg-theme-colored2"><img src="/images/icon/i1.png" alt="Image"></div>
                   </div>
                   <div class="pricing-table-inner-wrapper">
                     <div class="pricing-table-inner">
@@ -720,7 +720,7 @@
                 </form>
 
                 <script data-cfasync="false"
-                  src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+                  src="//cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
                 <script>
                   (function ($) {
                     $("#contact_form").validate({
@@ -765,7 +765,7 @@
                           </div>
                           <div class="testimonial-author-details">
                             <div class="testimonial-image-holder">
-                              <div class="author-thumb"> <img width="75" height="75" src="images/testimonials/3.jpg"
+                              <div class="author-thumb"> <img width="75" height="75" src="/images/testimonials/3.jpg"
                                   class="img-thumbnail rounded-circle" alt="images" /></div>
                             </div>
                             <div class="testimonial-author-info-holder">
@@ -787,7 +787,7 @@
                           </div>
                           <div class="testimonial-author-details">
                             <div class="testimonial-image-holder">
-                              <div class="author-thumb"> <img width="75" height="75" src="images/testimonials/1.jpg"
+                              <div class="author-thumb"> <img width="75" height="75" src="/images/testimonials/1.jpg"
                                   class="img-thumbnail rounded-circle" alt="images" /></div>
                             </div>
                             <div class="testimonial-author-info-holder">
@@ -810,7 +810,7 @@
                           </div>
                           <div class="testimonial-author-details">
                             <div class="testimonial-image-holder">
-                              <div class="author-thumb"> <img width="75" height="75" src="images/testimonials/2.jpg"
+                              <div class="author-thumb"> <img width="75" height="75" src="/images/testimonials/2.jpg"
                                   class="img-thumbnail rounded-circle" alt="images" /></div>
                             </div>
                             <div class="testimonial-author-info-holder">
@@ -876,7 +876,7 @@
                           <div class="tm-gallery">
                             <div class="tm-gallery-inner">
                               <div class="thumb">
-                                <a href="#"><img src="images/gallery/1.jpg" class alt="images" /></a>
+                                <a href="#"><img src="/images/gallery/1.jpg" class alt="images" /></a>
                               </div>
                               <div class="tm-gallery-content-wrapper">
                                 <div class="tm-gallery-content">
@@ -905,7 +905,7 @@
                           <div class="tm-gallery">
                             <div class="tm-gallery-inner">
                               <div class="thumb">
-                                <a href="#"><img src="images/gallery/2.jpg" class alt="images" /></a>
+                                <a href="#"><img src="/images/gallery/2.jpg" class alt="images" /></a>
                               </div>
                               <div class="tm-gallery-content-wrapper">
                                 <div class="tm-gallery-content">
@@ -934,7 +934,7 @@
                           <div class="tm-gallery">
                             <div class="tm-gallery-inner">
                               <div class="thumb">
-                                <a href="#"><img src="images/gallery/3.jpg" class alt="images" /></a>
+                                <a href="#"><img src="/images/gallery/3.jpg" class alt="images" /></a>
                               </div>
                               <div class="tm-gallery-content-wrapper">
                                 <div class="tm-gallery-content">
@@ -963,7 +963,7 @@
                           <div class="tm-gallery">
                             <div class="tm-gallery-inner">
                               <div class="thumb">
-                                <a href="#"><img src="images/gallery/4.jpg" class alt="images" /></a>
+                                <a href="#"><img src="/images/gallery/4.jpg" class alt="images" /></a>
                               </div>
                               <div class="tm-gallery-content-wrapper">
                                 <div class="tm-gallery-content">
@@ -992,7 +992,7 @@
                           <div class="tm-gallery">
                             <div class="tm-gallery-inner">
                               <div class="thumb">
-                                <a href="#"><img src="images/gallery/5.jpg" class alt="images" /></a>
+                                <a href="#"><img src="/images/gallery/5.jpg" class alt="images" /></a>
                               </div>
                               <div class="tm-gallery-content-wrapper">
                                 <div class="tm-gallery-content">
@@ -1021,7 +1021,7 @@
                           <div class="tm-gallery">
                             <div class="tm-gallery-inner">
                               <div class="thumb">
-                                <a href="#"><img src="images/gallery/6.jpg" class alt="images" /></a>
+                                <a href="#"><img src="/images/gallery/6.jpg" class alt="images" /></a>
                               </div>
                               <div class="tm-gallery-content-wrapper">
                                 <div class="tm-gallery-content">
@@ -1092,7 +1092,7 @@
                             <div class="entry-header">
                               <div class="post-thumb lightgallery-lightbox">
                                 <div class="post-thumb-inner">
-                                  <div class="thumb"> <img src="images/blog/b1.jpg" alt="Image" /></div>
+                                  <div class="thumb"> <img src="/images/blog/b1.jpg" alt="Image" /></div>
                                 </div>
                               </div>
                               <a class="link" href="#"><i class="fa fa-link"></i></a>
@@ -1127,7 +1127,7 @@
                             <div class="entry-header">
                               <div class="post-thumb lightgallery-lightbox">
                                 <div class="post-thumb-inner">
-                                  <div class="thumb"> <img src="images/blog/b3.jpg" alt="Image" /></div>
+                                  <div class="thumb"> <img src="/images/blog/b3.jpg" alt="Image" /></div>
                                 </div>
                               </div>
                               <a class="link" href="#"><i class="fa fa-link"></i></a>
@@ -1162,7 +1162,7 @@
                             <div class="entry-header">
                               <div class="post-thumb lightgallery-lightbox">
                                 <div class="post-thumb-inner">
-                                  <div class="thumb"> <img src="images/blog/b1.jpg" alt="Image" /></div>
+                                  <div class="thumb"> <img src="/images/blog/b1.jpg" alt="Image" /></div>
                                 </div>
                               </div>
                               <a class="link" href="#"><i class="fa fa-link"></i></a>

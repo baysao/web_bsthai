@@ -31,10 +31,10 @@
               <div class="row header-nav-col-row">
                 <div class="col-sm-auto align-self-center">
                   <a class="menuzord-brand site-brand" href="/">
-                    <!-- <img class="logo-default logo-1x" src="images/logo-wide.png" alt="Logo"> -->
-                    <img class="logo-default logo-1x" src="images/logo-chu.png" alt="Logo">
-                    <!-- <img class="logo-default logo-2x retina" src="images/logo-wide@2x.png" alt="Logo"> -->
-                    <img class="logo-default logo-2x retina" src="images/logox2.png" alt="Logo">
+                    <!-- <img class="logo-default logo-1x" src="/images/logo-wide.png" alt="Logo"> -->
+                    <img class="logo-default logo-1x" src="/images/logo-chu.png" alt="Logo">
+                    <!-- <img class="logo-default logo-2x retina" src="/images/logo-wide@2x.png" alt="Logo"> -->
+                    <img class="logo-default logo-2x retina" src="/images/logox2.png" alt="Logo">
                   </a>
                 </div>
                 <div class="col-sm-auto ms-auto pr-0 align-self-center">
@@ -51,7 +51,7 @@
                       <div class="top-nav-mini-cart-icon-container">
                         <div class="top-nav-mini-cart-icon-contents">
                           <a class="mini-cart-icon" href="shop-cart.html" title="View your shopping cart">
-                            <img src="images/shopping-cart.png" width="25" alt="cart"><span class="items-count">1</span>
+                            <img src="/images/shopping-cart.png" width="25" alt="cart"><span class="items-count">1</span>
                             <span class="cart-quick-info">1 item - <span class="amount"><span
                                   class="currencySymbol">&pound;</span>18.00</span></span>
                           </a>
@@ -61,7 +61,7 @@
                                 <a href="#" class="remove remove_from_cart_button" aria-label="Remove this item"
                                   data-product_id="18832" data-cart_item_key="#"
                                   data-product_sku="woo-beanie">&times;</a>
-                                <a href="#"> <img class="attachment-thumbnail" src="images/shop/product.jpg" width="300"
+                                <a href="#"> <img class="attachment-thumbnail" src="/images/shop/product.jpg" width="300"
                                     height="300" alt="images" />Beanie</a>
                                 <span class="quantity">1 &times; <span class="amount">
                                     <span class="currencySymbol">&pound;</span>18.00</span></span>
