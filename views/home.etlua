@@ -10,20 +10,19 @@
                 style="background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
                 <rs-module id="rev_slider_1_1" style="display:none;" data-version="6.1.6">
                   <rs-slides>
-                    <rs-slide data-key="rs-1" data-title="Slide" data-thumb="images/bg/bg24.jpg"
+                    <rs-slide data-key="rs-1" data-title="Slide" data-thumb="images/bg/bg0.jpg"
                       data-anim="ei:d;eo:d;s:2590;r:0;t:slidingoverlayleft;sl:d;"
                       data-firstanim="t:slidingoverlayleft;s:1500;">
-                      <img src="/images/bg/bg24.jpg" title="rev-s4" width="1920" height="1280" data-bg="p:0% 10%;"
+                      <img src="/images/bg/bg0.jpg" title="rev-s4" width="1920" height="1280" data-bg="p:0% 10%;"
                         data-parallax="12" class="rev-slidebg" data-no-retina>
                       <rs-layer id="slider-1-slide-26-layer-2" class="rs-pxl-1" data-type="text" data-rsp_ch="on"
                         data-xy="x:l,l,l,c;xo:55px,55px,55px,0;y:m;yo:-117px,-110px,-89px,-87px;"
                         data-text="s:75,65,54,48;l:85,75,65,61;fw:800;a:inherit,inherit,inherit,center;"
-                        data-dim="w:515px,456px,379px,335px;" data-padding="r:20,20,20,0;l:20,20,20,0;"
+                        data-dim="w:580px,456px,379px,335px;" data-padding="r:20,20,20,0;l:20,20,20,0;"
                         data-frame_0="x:175%;o:1;" data-frame_0_mask="u:t;x:-100%;"
                         data-frame_1="e:Power3.easeOut;st:700;sp:1000;sR:700;" data-frame_1_mask="u:t;"
                         data-frame_999="x:175%;o:1;st:w;sp:1000;sR:7300;" data-frame_999_mask="u:t;x:-100%;"
-                        style="z-index:12;background-color:rgba(0,163,200,0.8);font-family:Open Sans;text-transform:uppercase;">We
-                        Provide
+                        style="z-index:12;background-color:rgba(0,163,200,0.8);font-family:Open Sans;text-transform:uppercase;">Chuyên khoa
                       </rs-layer>
                       <rs-layer id="slider-1-slide-26-layer-5" data-type="text" data-rsp_ch="on"
                         data-xy="x:l,l,l,c;xo:54px,55px,55px,0;y:m;yo:45px,47px,44px,45px;"
@@ -31,8 +30,7 @@
                         data-dim="w:auto,auto,auto,478px;h:auto,auto,auto,64px;"
                         data-frame_1="e:Power4.easeInOut;st:1300;sp:1000;sR:1300;"
                         data-frame_999="o:0;e:Power4.easeInOut;st:w;sp:1000;sR:6700;"
-                        style="z-index:10;font-family:Open Sans;">See your cardiovascular system in action with our
-                        interactive <br> illustrations and animations.
+                        style="z-index:10;font-family:Open Sans;">Chẩn đoán, điều trị các bệnh lý Tiết niệu - Nam giới học - Hiếm muộn.
                       </rs-layer>
                       <rs-layer id="slider-1-slide-26-layer-7" data-type="text" data-rsp_ch="on"
                         data-xy="x:l,l,l,c;xo:56px,55px,55px,0;y:m;yo:-31px,-30px,-20px,-25px;"
@@ -40,15 +38,14 @@
                         data-padding="r:20,20,20,15;l:20,20,20,15;" data-frame_0="sX:0.8;sY:0.8;"
                         data-frame_1="e:Power4.easeOut;st:1000;sp:1000;sR:1000;"
                         data-frame_999="sX:0.9;sY:0.9;o:0;st:w;sp:1000;sR:7000;"
-                        style="z-index:11;background-color:rgba(0,0,0,0.36);font-family:Open Sans;text-transform:uppercase;">Total
-                        Health Care Solution
+                        style="z-index:11;background-color:rgba(0,0,0,0.36);font-family:Open Sans;text-transform:uppercase;">Tiết niệu - Nam khoa
                       </rs-layer>
                       <rs-layer id="slider-1-slide-26-layer-16" data-type="text" data-rsp_ch="on"
                         data-xy="x:l,l,l,c;xo:54px,55px,55px,0;y:t,m,m,m;yo:460px,119px,126px,122px;"
                         data-text="w:normal;s:20,15,11,6;l:25,19,14,8;" data-frame_0="y:bottom;"
                         data-frame_1="st:1620;sp:1000;sR:1620;" data-frame_999="x:50,38,28,17;o:0;st:w;sp:1000;sR:6380;"
-                        style="z-index:9;font-family:Roboto;"><a href="#"
-                          class="btn btn-theme-colored2 btn-round btn-lg" target="_blank">Find Out More</a>
+                        style="z-index:9;font-family:Roboto;"><a href="/services"
+                          class="btn btn-theme-colored2 btn-round btn-lg" target="_blank">Khám phá</a>
                       </rs-layer>
                       <rs-layer id="slider-1-slide-26-layer-17" data-type="shape" data-rsp_ch="on"
                         data-text="w:normal;s:20,15,11,6;l:0,19,14,8;" data-dim="w:100%;h:100%;" data-basealign="slide"
@@ -56,96 +53,7 @@
                         style="z-index:8;background-color:rgba(0,163,200,0.32);font-family:Roboto;">
                       </rs-layer>
                     </rs-slide>
-                    <rs-slide data-key="rs-27" data-title="Slide" data-thumb="images/bg/bg1.jpg"
-                      data-anim="ei:d;eo:d;s:2590;r:0;t:slidingoverlayleft;sl:d;">
-                      <img src="/images/bg/bg1.jpg" title="rev-s3" width="1920" height="1280" data-bg="p:0% 10%;"
-                        data-parallax="12" class="rev-slidebg" data-no-retina>
-                      <rs-layer id="slider-1-slide-27-layer-2" class="rs-pxl-1" data-type="text" data-rsp_ch="on"
-                        data-xy="x:c;y:m;yo:-117px,-110px,-89px,-87px;"
-                        data-text="s:75,65,54,48;l:85,75,65,61;fw:800;a:inherit,inherit,inherit,center;"
-                        data-dim="w:515px,456px,379px,335px;" data-padding="r:20,20,20,0;l:20,20,20,0;"
-                        data-frame_0="x:175%;o:1;" data-frame_0_mask="u:t;x:-100%;"
-                        data-frame_1="e:Power3.easeOut;st:700;sp:1000;sR:700;" data-frame_1_mask="u:t;"
-                        data-frame_999="x:175%;o:1;st:w;sp:1000;sR:7300;" data-frame_999_mask="u:t;x:-100%;"
-                        style="z-index:12;background-color:rgba(0,163,200,0.8);font-family:Open Sans;text-transform:uppercase;">We
-                        Provide
-                      </rs-layer>
-                      <rs-layer id="slider-1-slide-27-layer-5" data-type="text" data-rsp_ch="on"
-                        data-xy="x:c;y:m;yo:45px,47px,44px,45px;"
-                        data-text="s:18,18,16,16;l:28,26,24,22;ls:0,0,0px,0px;a:center;"
-                        data-dim="w:auto,auto,auto,478px;h:auto,auto,auto,64px;"
-                        data-frame_1="e:Power4.easeInOut;st:1300;sp:1000;sR:1300;"
-                        data-frame_999="o:0;e:Power4.easeInOut;st:w;sp:1000;sR:6700;"
-                        style="z-index:10;font-family:Open Sans;">See your cardiovascular system in action with our
-                        interactive <br> illustrations and animations.
-                      </rs-layer>
-                      <rs-layer id="slider-1-slide-27-layer-7" data-type="text" data-rsp_ch="on"
-                        data-xy="x:c;y:m;yo:-31px,-30px,-20px,-25px;"
-                        data-text="s:35,35,30,28;l:54,52,48,42;fw:600;a:inherit;"
-                        data-padding="r:20,20,20,15;l:20,20,20,15;" data-frame_0="sX:0.8;sY:0.8;"
-                        data-frame_1="e:Power4.easeOut;st:1000;sp:1000;sR:1000;"
-                        data-frame_999="sX:0.9;sY:0.9;o:0;st:w;sp:1000;sR:7000;"
-                        style="z-index:11;background-color:rgba(0,0,0,0.36);font-family:Open Sans;text-transform:uppercase;">Total
-                        Health Care Solution
-                      </rs-layer>
-                      <rs-layer id="slider-1-slide-27-layer-16" data-type="text" data-rsp_ch="on"
-                        data-xy="x:c;xo:0,55px,55px,0;y:t,m,m,m;yo:460px,119px,126px,122px;"
-                        data-text="w:normal;s:20,15,11,6;l:25,19,14,8;" data-frame_0="y:bottom;"
-                        data-frame_1="st:1620;sp:1000;sR:1620;" data-frame_999="x:50,38,28,17;o:0;st:w;sp:1000;sR:6380;"
-                        style="z-index:9;font-family:Roboto;"><a href="#"
-                          class="btn btn-theme-colored1 btn-round btn-lg" target="_blank">Find Out More</a>
-                      </rs-layer>
-                      <rs-layer id="slider-1-slide-27-layer-17" data-type="shape" data-rsp_ch="on"
-                        data-text="w:normal;s:20,15,11,6;l:0,19,14,8;" data-dim="w:100%;h:100%;" data-basealign="slide"
-                        data-frame_999="o:0;st:w;sR:8700;"
-                        style="z-index:8;background-color:rgba(0,163,200,0.32);font-family:Roboto;">
-                      </rs-layer>
-                    </rs-slide>
-                    <rs-slide data-key="rs-28" data-title="Slide" data-thumb="images/bg/bg8.jpg"
-                      data-anim="ei:d;eo:d;s:2590;r:0;t:slidingoverlayleft;sl:d;">
-                      <img src="/images/bg/bg8.jpg" title="rev-s2" width="1920" height="1280" data-bg="p:0% 10%;"
-                        data-parallax="12" class="rev-slidebg" data-no-retina>
-                      <rs-layer id="slider-1-slide-28-layer-2" class="rs-pxl-1" data-type="text" data-rsp_ch="on"
-                        data-xy="x:r,r,r,c;xo:55px,55px,55px,0;y:m;yo:-117px,-110px,-89px,-87px;"
-                        data-text="s:75,65,54,48;l:85,75,65,61;fw:800;a:inherit,inherit,inherit,center;"
-                        data-dim="w:515px,456px,379px,335px;" data-padding="r:20,20,20,0;l:20,20,20,0;"
-                        data-frame_0="x:175%;o:1;" data-frame_0_mask="u:t;x:-100%;"
-                        data-frame_1="e:Power3.easeOut;st:700;sp:1000;sR:700;" data-frame_1_mask="u:t;"
-                        data-frame_999="x:175%;o:1;st:w;sp:1000;sR:7300;" data-frame_999_mask="u:t;x:-100%;"
-                        style="z-index:12;background-color:rgba(0,163,200,0.8);font-family:Open Sans;text-transform:uppercase;">We
-                        Provide
-                      </rs-layer>
-                      <rs-layer id="slider-1-slide-28-layer-5" data-type="text" data-rsp_ch="on"
-                        data-xy="x:r,r,r,c;xo:54px,55px,55px,0;y:m;yo:45px,47px,44px,45px;"
-                        data-text="s:18,18,16,16;l:28,26,24,22;ls:0,0,0px,0px;a:right,right,right,center;"
-                        data-dim="w:auto,auto,auto,478px;h:auto,auto,auto,64px;"
-                        data-frame_1="e:Power4.easeInOut;st:1300;sp:1000;sR:1300;"
-                        data-frame_999="o:0;e:Power4.easeInOut;st:w;sp:1000;sR:6700;"
-                        style="z-index:10;font-family:Open Sans;">See your cardiovascular system in action with our
-                        interactive <br> illustrations and animations.
-                      </rs-layer>
-                      <rs-layer id="slider-1-slide-28-layer-7" data-type="text" data-rsp_ch="on"
-                        data-xy="x:r,r,r,c;xo:56px,55px,55px,0;y:m;yo:-31px,-30px,-20px,-25px;"
-                        data-text="s:35,35,30,28;l:54,52,48,42;fw:600;a:inherit;"
-                        data-padding="r:20,20,20,15;l:20,20,20,15;" data-frame_0="sX:0.8;sY:0.8;"
-                        data-frame_1="e:Power4.easeOut;st:1000;sp:1000;sR:1000;"
-                        data-frame_999="sX:0.9;sY:0.9;o:0;st:w;sp:1000;sR:7000;"
-                        style="z-index:11;background-color:rgba(0,0,0,0.36);font-family:Open Sans;text-transform:uppercase;">Total
-                        Health Care Solution
-                      </rs-layer>
-                      <rs-layer id="slider-1-slide-28-layer-16" data-type="text" data-rsp_ch="on"
-                        data-xy="x:r,r,r,c;xo:54px,55px,55px,0;y:t,m,m,m;yo:460px,119px,126px,122px;"
-                        data-text="w:normal;s:20,15,11,6;l:25,19,14,8;" data-frame_0="y:bottom;"
-                        data-frame_1="st:1620;sp:1000;sR:1620;" data-frame_999="x:50,38,28,17;o:0;st:w;sp:1000;sR:6380;"
-                        style="z-index:9;font-family:Roboto;"><a href="#"
-                          class="btn btn-theme-colored1 btn-round btn-lg" target="_blank">Find Out More</a>
-                      </rs-layer>
-                      <rs-layer id="slider-1-slide-28-layer-17" data-type="shape" data-rsp_ch="on"
-                        data-text="w:normal;s:20,15,11,6;l:0,19,14,8;" data-dim="w:100%;h:100%;" data-basealign="slide"
-                        data-frame_999="o:0;st:w;sR:8700;"
-                        style="z-index:8;background-color:rgba(0,163,200,0.32);font-family:Roboto;">
-                      </rs-layer>
-                    </rs-slide>
+                  
                   </rs-slides>
                   <rs-static-layers>
                   </rs-static-layers>
@@ -166,49 +74,44 @@
                 <div class="tm-element-holder tm-fullwidth open-hours p-30 border-10px">
                   <div class="tm-element-holder-wrapper">
                     <div class="tm-element-holder-content">
-                      <h5 class="mt-0"><i class="far fa-clock text-theme-colored1"></i> Opening Hours</h5>
+                      <h5 class="mt-0"><i class="far fa-clock text-theme-colored1"></i> Lịch làm việc</h5>
                       <ul class="tm-sc-opening-hours tm-sc-opening-hours-compressed opening-hours border-light">
                         <li class="clearfix">
-                          <span>Monday - Thursday</span>
-                          <div class="value">9:00 - 17:00</div>
+                          <span>Thứ Hai - Thứ Sáu</span>
+                          <div class="value">17:00 - 19:30</div>
                         </li>
                         <li class="clearfix">
-                          <span>Saturday</span>
-                          <div class="value">9.00 - 16.00</div>
+                          <span>Thứ Bảy</span>
+                          <div class="value">08:00 - 10:00</div>
                         </li>
-                        <li class="clearfix">
-                          <span>Sunday</span>
+                        <!-- <li class="clearfix">
+                          <span>Chủ Nhật</span>
                           <div class="value">Closed</div>
-                        </li>
+                        </li> -->
                       </ul>
-                      <h5><i class="far fa-question-circle text-theme-colored1"></i> Need Help?</h5>
-                      <p>Just make an appointment to get help from our experts.</p>
-                      <div class="tm-sc-button"> <a href="#" target="_self" class="btn btn-theme-colored1 btn-sm"> View
-                          Hospital Details </a></div>
+                      <h5><i class="far fa-question-circle text-theme-colored1"></i> Nếu bạn cần tư vấn</h5>
+                      <p>Hãy liên hệ ngay với phòng khám chúng tôi</p>
+                      <div class="tm-sc-button"> <a href="https://zalo.me/4404571597986580450" target="_bank" class="btn btn-theme-colored1 btn-sm"> Tư vấn qua Zalo</a></div>
                     </div>
                   </div>
                 </div>
               </div>
               <div class="mb-md-30 col-sm-12 col-lg-4 col-md-6">
-                <h4 class="text-gray mt-0">About</h4>
-                <h2>Medinov Hospital</h2>
-                <p><em>One of the world&#8217;s leading hospitals providing safe &amp; compassionate care at its best
-                    for everyone.</em></p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque commodi molestiae autem fugit
-                  consectetur dolor ullam illo ipsa numquam.</p>
-                <img src="/images/signature.png" class="attachment-large" alt="images" />
-                <div class="tm-sc-button mt-20"> <a href="#" target="_self" class="btn btn-theme-colored1 btn-sm"> Read
-                    more </a></div>
+                <!-- <h4 class="text-gray mt-0">About</h4> -->
+                <h2>Phòng khám Nam khoa Tiết niệu TS Thái</h2>
+                <p>Tự h&agrave;o l&agrave; địa chỉ kh&aacute;m chuy&ecirc;n khoa tiết niệu chất lượng cao, sự&nbsp;<strong>Uy t&iacute;n</strong>&nbsp;&ndash;&nbsp;<strong>Chuy&ecirc;n nghiệp</strong>&nbsp;&ndash;&nbsp;<strong>Tận t&acirc;m</strong>&nbsp;đ&atilde; gi&uacute;p ph&ograve;ng kh&aacute;m vinh dự&nbsp;được đ&ocirc;ng đảo bệnh nh&acirc;n tin tưởng lựa chọn.&nbsp;Với quy tr&igrave;nh nhanh gọn, c&aacute;c b&aacute;c sĩ chuy&ecirc;n khoa giỏi c&ugrave;ng cơ sở vật chất hiện đại, m&aacute;y m&oacute;c, thiết bị y tế ti&ecirc;n tiến cho kết quả nhanh, ch&iacute;nh x&aacute;c.</p>
+                <!-- <img src="/images/signature.png" class="attachment-large" alt="images" /> -->
+                <div class="tm-sc-button mt-20"> <a href="/member/bsthai" target="_self" class="btn btn-theme-colored1 btn-sm"> Xem thêm </a></div>
               </div>
               <div class="col-sm-12 col-lg-4 hidden-md-down">
-                <img width="340" height="464" src="/images/about/5.png" class="attachment-large" alt="images" />
+                <img width="340" height="464" src="/images/team/bsthai.jpg" class="attachment-large" alt="images" />
               </div>
             </div>
           </div>
         </div>
       </section>
 
-      <section class="bg-white-f5">
+      <!-- <section class="bg-white-f5">
         <div class="container">
           <div class="section-content">
             <div class="row">
@@ -377,10 +280,10 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
 
 
-      <section class="bg-img-no-repeat" data-tm-bg-img="images/photos/1.jpg">
+      <!-- <section class="bg-img-no-repeat" data-tm-bg-img="images/photos/1.jpg">
         <div class="container">
           <div class="section-content">
             <div class="row">
@@ -555,10 +458,10 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
 
 
-      <section class="bg-white-f5">
+      <!-- <section class="bg-white-f5">
         <div class="container pt-90">
           <div class="section-title">
             <div class="row justify-content-md-center">
@@ -668,9 +571,9 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
 
-
+<!-- 
       <section class="bg-theme-colored2">
         <div class="container pt-90 pb-90">
           <div class="section-content">
@@ -828,10 +731,10 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
 
 
-      <section>
+      <!-- <section>
         <div class="container pb-70">
           <div class="section-title">
             <div class="row justify-content-md-center">
@@ -1053,9 +956,9 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
 
-      <section>
+      <!-- <section>
         <div class="container pt-0">
           <div class="section-title">
             <div class="row justify-content-md-center">
@@ -1196,10 +1099,10 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
 
 
-      <section>
+      <!-- <section>
         <div class="container pt-0 pb-0">
           <div class="section-content section-typo-light">
             <div class="row row-o-equal-height">
@@ -1254,6 +1157,6 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
 
     </div>
