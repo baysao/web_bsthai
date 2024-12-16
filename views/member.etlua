@@ -34,7 +34,7 @@
               <div class="widget widget_text text-center">
                 <img src="<%- member.avatar %>" class="img-fullwidth" alt />
               </div>
-              <div class="widget widget_text text-center">
+              <!-- <div class="widget widget_text text-center">
                 <div class="textwidget">
                   <div class="section-typo-light bg-theme-colored1 mb-md-40 p-30 pt-40 pb-40"> <img
                       class="size-full wp-image-800 aligncenter" src="/images/headphone-128.png" alt width="128"
@@ -62,7 +62,7 @@
                   </div>
                 </form>
 
-              </div>
+              </div> -->
             </div>
           </div>
           <div class="col-lg-9">
