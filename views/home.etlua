@@ -45,7 +45,7 @@
                         data-text="w:normal;s:20,15,11,6;l:25,19,14,8;" data-frame_0="y:bottom;"
                         data-frame_1="st:1620;sp:1000;sR:1620;" data-frame_999="x:50,38,28,17;o:0;st:w;sp:1000;sR:6380;"
                         style="z-index:9;font-family:Roboto;"><a href="/member/bsthai"
-                          class="btn btn-theme-colored2 btn-round btn-lg" target="_blank">Khám phá</a>
+                          class="btn btn-theme-colored2 btn-round btn-lg" target="_blank">Tìm hiểu thêm</a>
                       </rs-layer>
                       <rs-layer id="slider-1-slide-26-layer-17" data-type="shape" data-rsp_ch="on"
                         data-text="w:normal;s:20,15,11,6;l:0,19,14,8;" data-dim="w:100%;h:100%;" data-basealign="slide"
