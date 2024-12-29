@@ -33,7 +33,7 @@
                   <div id="staff-holder-945632" class="owl-carousel owl-theme tm-owl-carousel-4col" data-nav="true"
                     data-dots="true" data-autoplay="true" data-loop="false" data-duration="6000" data-smartspeed="300"
                     data-margin="30" data-stagepadding="0">
-                    <% for i, member in pairs(members) do %>
+                    <% for i, member in ipairs(members) do %>
                     <div class="tm-carousel-item">
                       <div class="tm-staff">
                         <div class="staff-inner">

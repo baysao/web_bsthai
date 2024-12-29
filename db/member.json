@@ -1,82 +1,80 @@
 {
-   
-    "bskhoa": {
-        "name":"Nguyễn Huỳnh Đăng Khoa",
-        "title":"Thạc sĩ - Bác sĩ",
-        "avatar":"/images/team/bskhoa.jpg",
-        "lead":"Chuyên khoa Tiết niệu - Nam khoa",
-        "desc":"Chuyên chẩn đoán, điều trị các bệnh lý Tiết niệu - Nam giới học - Hiếm muộn",
-        "link":"/member/bskhoa",
-        "data":[
-            {
-                "title":"QUÁ TRÌNH ĐÀO TẠO",
-                "content":"<ul><li>Tốt nghiệp B&aacute;c sĩ Y khoa tại Đại học Y dược Th&agrave;nh phố Hồ Ch&iacute; Minh năm 2020</li><li>Tốt nghiệp b&aacute;c sĩ nội tr&uacute; bệnh viện chuy&ecirc;n ng&agrave;nh Tiết niệu học - Đại học Y dược Th&agrave;nh phố Hồ Ch&iacute; Minh năm 2023</li><li>Tốt nghiệp Thạc sĩ Y học ng&agrave;nh Ngoại khoa - Đại học Y dược Th&agrave;nh phố Hồ Ch&iacute; Minh năm 2023</li></ul>"
-            },
-            {
-                "title": "CÔNG TÁC",
-                "content":"<ul><li>Giảng vi&ecirc;n Bộ m&ocirc;n Tiết niệu học - Khoa Y - Đại học Y dược Th&agrave;nh phố Hồ Ch&iacute; Minh</li><li>Tham gia giảng dạy, điều trị tại khoa Ngoại Thận - Tiết niệu Bệnh viện Nh&acirc;n d&acirc;n Gia Định</li><li>Ph&ograve;ng kh&aacute;m Tiết niệu - Nam học 23 C&ocirc;ng ch&uacute;a Ngọc H&acirc;n, Quận 11, Th&agrave;nh phố Hồ Ch&iacute; Minh</li></ul>"
-            },
-            {
-                "title": "CÁC KHÓA HỌC - TU NGHIỆP",
-                "content":"<ul><li>Nam học &amp; Y học sinh sản kho&aacute; 13 - Đại học Y H&agrave; Nội 2023</li><li>Kho&aacute; đ&agrave;o tạo n&acirc;ng cao Nam giới học của Đại học California, Irvine 2024</li><li>Kho&aacute; đ&agrave;o tạo chuy&ecirc;n s&acirc;u nam khoa của Hội Tiết niệu Ch&acirc;u &Acirc;u (EAU) 2024</li></ul>"
-            },
-            {
-                "title":"BÁO CÁO - THAM GIA HỘI NGHỊ",
-                "content":"<ul><li>AURC - Sydney 2022</li><li>UAA 2022</li><li>TUA 2024</li><li>InSAU 3rd</li></ul>"
-            },
-            {
-                "title":"HỘI VIÊN CỦA CÁC HIỆP HỘI",
-                "content":"<ul><li>Hội Tiết niệu - Thận học Th&agrave;nh phố Hồ Ch&iacute; Minh (HUNA)</li><li>Hội Tiết niệu Hoa K&igrave; (AUA)</li><li>Hội Tiết niệu Ch&acirc;u &Aacute;</li><li>Hội Y học giới t&iacute;nh Ch&acirc;u &Acirc;u (ESSM)</li></ul>"
-            }
-        ]
-    },
-    "bsthai": {
-        "name": "Nguyễn Ngọc Thái",
-        "avatar":"/images/team/bsthai.jpg",
-        "title": "Tiến sĩ - Bác sĩ",
-        "link":"/member/bsthai",
-        "lead":"TS. BS. Nguyễn Ngọc Thái là một bác sĩ có chuyên môn và tay nghề cao trong lĩnh vực Tiết niệu – Nam khoa.",
-        "desc":"TS. BS. Nguyễn Ngọc Thái hiện đang là Giảng viên bộ môn Tiết niệu học – Đại học Y Dược thành phố Hồ Chí Minh. Với hơn 15 năm kinh nghiệm. Với kinh nghiệm của mình, TS. BS. Nguyễn Ngọc Thái chuyên điều trị các vấn đề về nam khoa, vô sinh nam giới và các bệnh lý liên quan về đường tiết niệu như sỏi, bệnh lý tuyến tiền liệt, bàng quang tăng hoạt, nhiễm trùng đường tiết niệu, ung bướu đường tiết niệu, ....",
-        "data": [
-            {
-                "title": "QUÁ TRÌNH ĐÀO TẠO",
-                "content": "<ul><li>2009: Tốt nghiệp b&aacute;c sĩ đa khoa</li><li>2013: Tốt nghiệp B&aacute;c sĩ nội tr&uacute; chuy&ecirc;n ng&agrave;nh Ngoại Thận &amp; Tiết niệu tại Đại học Y dược Th&agrave;nh phố Hồ Ch&iacute; Minh</li><li>2024: Tốt nghiệp Tiến sĩ tại đại học Y dược Th&agrave;nh phố Hồ Ch&iacute; Minh</li></ul>"
-            },
-    
-            {
-                "title":"CHỨNG CHỈ/CHỨNG NHẬN",
-                "content":"<ul><li>2016: Tu nghiệp tại Nhật</li><li>2018: Đ&agrave;o tạo Nam học tại Đại học Y H&agrave; Nội, chứng chỉ si&ecirc;u &acirc;m về bẹn b&igrave;u, tinh ho&agrave;n</li><li>2023: Chứng chỉ về sử dụng liệu ph&aacute;p testosterone thay thế</li><li>2024: Đ&agrave;o tạo chuy&ecirc;n s&acirc;u về Y học giới t&iacute;nh (Sexual Medicine)</li><li>2024: Chứng chỉ về sử dụng hormone nội tiết trong điều trị v&ocirc; sinh ở nam giới</li><li>2024: Đ&agrave;o tạo chuy&ecirc;n s&acirc;u Nam học v&agrave; Y học sinh sản tại Đại học Y H&agrave; Nội</li><li>2024: Kho&aacute; đ&agrave;o tạo chuy&ecirc;n s&acirc;u về Nam Khoa của Hội Niệu khoa Ch&acirc;u &Acirc;u (EAU)</li></ul>"
-            },
-            {
-                "title":"HỘI VIÊN CỦA CÁC HIỆP HỘI",
-                "content":"<ul><li>Hội vi&ecirc;n của hiệp hội Y học giới t&iacute;nh quốc tế (ISSM)</li><li>Hội vi&ecirc;n của hội Tiết niệu ch&acirc;u &Acirc;u (EAU)</li><li>Hội vi&ecirc;n của hội Tiết niệu Hoa Kỳ (AUA)</li><li>Hội vi&ecirc;n của hội Tiết niệu - Thận học Việt Nam (VUNA)</li><li>Hội vi&ecirc;n của hội Tiết niệu - Thận học Th&agrave;nh phố Hồ Ch&iacute; Minh (HUNA)</li></ul>"
-            }
-            
-        ]
-    },
-    "bsquan": {
-        "name":"Nguyễn Hữu Hoàng Quân",
-        "title":"Bác sĩ",
-        "link":"/member/bsquan",
-        "avatar":"/images/team/bsquan.jpg",
-        "lead":"Chuyên khoa Tiết niệu - Nam khoa",
-        "desc":"Chuyên chẩn đoán, điều trị các bệnh lý Tiết niệu - Nam giới học - Hiếm muộn",
-        "data": [
-            {
-                "title":"QUÁ TRÌNH ĐÀO TẠO",
-                "content":"<ul><li>Tốt nghiệp B&aacute;c sĩ y khoa tại Đại học Y dược Th&agrave;nh phố Hồ Ch&iacute; Minh năm 2022</li><li>Thực h&agrave;nh Kh&aacute;m, chữa bệnh chuy&ecirc;n ng&agrave;nh Ngoại khoa tại BV Chợ Rẫy: 2023-2024</li></ul>"
-            },
-            {
-                "title":"CHỨNG CHỈ/CHỨNG NHẬN",
-                "content":"<ul><li>ESHRE course: Essential knowledge: The andrology lab: analysis, preparation, freezing and decision-making</li><li>ASRM course: Abnormal semen analysis: is this a sign of testicular pathology?</li><li>Kho&aacute; đ&agrave;o tạo chuy&ecirc;n s&acirc;u về Nam khoa của hội Tiết niệu ch&acirc;u &Acirc;u (EAU)</li><li>UROwebninar: The azospermic man become a father: From the outpatient clinic to the operating theatre</li><li>UROwebinar: Administrations of hormones in infertile males: Indications, the EAU guidelines and expectations</li><li>UROwebinar: Administrations of hormones in infertile males: Indications, the EAU guidelines and expectations</li></ul>"
-            },
-            {
-                "title":"HỘI VIÊN CỦA CÁC HIỆP HỘI",
-                "content":"<ul><li>Hội vi&ecirc;n hội Tiết niệu &ndash; Thận học Th&agrave;nh phố Hồ Ch&iacute; Minh (HUNA)</li></ul>"
-            }
-        ]
-    }
+  "bskhoa": {
+    "name": "Nguyễn Huỳnh Đăng Khoa",
+    "index": 2,
+    "title": "Thạc sĩ - Bác sĩ",
+    "avatar": "/images/team/bskhoa.jpg",
+    "lead": "Chuyên khoa Tiết niệu - Nam khoa",
+    "desc": "Chuyên chẩn đoán, điều trị các bệnh lý Tiết niệu - Nam giới học - Hiếm muộn",
+    "link": "/member/bskhoa",
+    "data": [
+      {
+        "title": "QUÁ TRÌNH ĐÀO TẠO",
+        "content": "<ul><li>Tốt nghiệp B&aacute;c sĩ Y khoa tại Đại học Y dược Th&agrave;nh phố Hồ Ch&iacute; Minh năm 2020</li><li>Tốt nghiệp b&aacute;c sĩ nội tr&uacute; bệnh viện chuy&ecirc;n ng&agrave;nh Tiết niệu học - Đại học Y dược Th&agrave;nh phố Hồ Ch&iacute; Minh năm 2023</li><li>Tốt nghiệp Thạc sĩ Y học ng&agrave;nh Ngoại khoa - Đại học Y dược Th&agrave;nh phố Hồ Ch&iacute; Minh năm 2023</li></ul>"
+      },
+      {
+        "title": "CÔNG TÁC",
+        "content": "<ul><li>Giảng vi&ecirc;n Bộ m&ocirc;n Tiết niệu học - Khoa Y - Đại học Y dược Th&agrave;nh phố Hồ Ch&iacute; Minh</li><li>Tham gia giảng dạy, điều trị tại khoa Ngoại Thận - Tiết niệu Bệnh viện Nh&acirc;n d&acirc;n Gia Định</li><li>Ph&ograve;ng kh&aacute;m Tiết niệu - Nam học 23 C&ocirc;ng ch&uacute;a Ngọc H&acirc;n, Quận 11, Th&agrave;nh phố Hồ Ch&iacute; Minh</li></ul>"
+      },
+      {
+        "title": "CÁC KHÓA HỌC - TU NGHIỆP",
+        "content": "<ul><li>Nam học &amp; Y học sinh sản kho&aacute; 13 - Đại học Y H&agrave; Nội 2023</li><li>Kho&aacute; đ&agrave;o tạo n&acirc;ng cao Nam giới học của Đại học California, Irvine 2024</li><li>Kho&aacute; đ&agrave;o tạo chuy&ecirc;n s&acirc;u nam khoa của Hội Tiết niệu Ch&acirc;u &Acirc;u (EAU) 2024</li></ul>"
+      },
+      {
+        "title": "BÁO CÁO - THAM GIA HỘI NGHỊ",
+        "content": "<ul><li>AURC - Sydney 2022</li><li>UAA 2022</li><li>TUA 2024</li><li>InSAU 3rd</li></ul>"
+      },
+      {
+        "title": "HỘI VIÊN CỦA CÁC HIỆP HỘI",
+        "content": "<ul><li>Hội Tiết niệu - Thận học Th&agrave;nh phố Hồ Ch&iacute; Minh (HUNA)</li><li>Hội Tiết niệu Hoa K&igrave; (AUA)</li><li>Hội Tiết niệu Ch&acirc;u &Aacute;</li><li>Hội Y học giới t&iacute;nh Ch&acirc;u &Acirc;u (ESSM)</li></ul>"
+      }
+    ]
+  },
+  "bsthai": {
+    "name": "Nguyễn Ngọc Thái",
+    "avatar": "/images/team/bsthai.jpg",
+    "title": "Tiến sĩ - Bác sĩ",
+    "index": 1,
+    "link": "/member/bsthai",
+    "lead": "TS. BS. Nguyễn Ngọc Thái là một bác sĩ có chuyên môn và tay nghề cao trong lĩnh vực Tiết niệu – Nam khoa.",
+    "desc": "TS. BS. Nguyễn Ngọc Thái hiện đang là Giảng viên bộ môn Tiết niệu học – Đại học Y Dược thành phố Hồ Chí Minh. Với hơn 15 năm kinh nghiệm. Với kinh nghiệm của mình, TS. BS. Nguyễn Ngọc Thái chuyên điều trị các vấn đề về nam khoa, vô sinh nam giới và các bệnh lý liên quan về đường tiết niệu như sỏi, bệnh lý tuyến tiền liệt, bàng quang tăng hoạt, nhiễm trùng đường tiết niệu, ung bướu đường tiết niệu, ....",
+    "data": [
+      {
+        "title": "QUÁ TRÌNH ĐÀO TẠO",
+        "content": "<ul><li>2009: Tốt nghiệp b&aacute;c sĩ đa khoa</li><li>2013: Tốt nghiệp B&aacute;c sĩ nội tr&uacute; chuy&ecirc;n ng&agrave;nh Ngoại Thận &amp; Tiết niệu tại Đại học Y dược Th&agrave;nh phố Hồ Ch&iacute; Minh</li><li>2024: Tốt nghiệp Tiến sĩ tại đại học Y dược Th&agrave;nh phố Hồ Ch&iacute; Minh</li></ul>"
+      },
 
-    
-    
+      {
+        "title": "CHỨNG CHỈ/CHỨNG NHẬN",
+        "content": "<ul><li>2016: Tu nghiệp tại Nhật</li><li>2018: Đ&agrave;o tạo Nam học tại Đại học Y H&agrave; Nội, chứng chỉ si&ecirc;u &acirc;m về bẹn b&igrave;u, tinh ho&agrave;n</li><li>2023: Chứng chỉ về sử dụng liệu ph&aacute;p testosterone thay thế</li><li>2024: Đ&agrave;o tạo chuy&ecirc;n s&acirc;u về Y học giới t&iacute;nh (Sexual Medicine)</li><li>2024: Chứng chỉ về sử dụng hormone nội tiết trong điều trị v&ocirc; sinh ở nam giới</li><li>2024: Đ&agrave;o tạo chuy&ecirc;n s&acirc;u Nam học v&agrave; Y học sinh sản tại Đại học Y H&agrave; Nội</li><li>2024: Kho&aacute; đ&agrave;o tạo chuy&ecirc;n s&acirc;u về Nam Khoa của Hội Niệu khoa Ch&acirc;u &Acirc;u (EAU)</li></ul>"
+      },
+      {
+        "title": "HỘI VIÊN CỦA CÁC HIỆP HỘI",
+        "content": "<ul><li>Hội vi&ecirc;n của hiệp hội Y học giới t&iacute;nh quốc tế (ISSM)</li><li>Hội vi&ecirc;n của hội Tiết niệu ch&acirc;u &Acirc;u (EAU)</li><li>Hội vi&ecirc;n của hội Tiết niệu Hoa Kỳ (AUA)</li><li>Hội vi&ecirc;n của hội Tiết niệu - Thận học Việt Nam (VUNA)</li><li>Hội vi&ecirc;n của hội Tiết niệu - Thận học Th&agrave;nh phố Hồ Ch&iacute; Minh (HUNA)</li></ul>"
+      }
+    ]
+  },
+  "bsquan": {
+    "name": "Nguyễn Hữu Hoàng Quân",
+    "title": "Bác sĩ",
+    "index": 3,
+    "link": "/member/bsquan",
+    "avatar": "/images/team/bsquan.jpg",
+    "lead": "Chuyên khoa Tiết niệu - Nam khoa",
+    "desc": "Chuyên chẩn đoán, điều trị các bệnh lý Tiết niệu - Nam giới học - Hiếm muộn",
+    "data": [
+      {
+        "title": "QUÁ TRÌNH ĐÀO TẠO",
+        "content": "<ul><li>Tốt nghiệp B&aacute;c sĩ y khoa tại Đại học Y dược Th&agrave;nh phố Hồ Ch&iacute; Minh năm 2022</li><li>Thực h&agrave;nh Kh&aacute;m, chữa bệnh chuy&ecirc;n ng&agrave;nh Ngoại khoa tại BV Chợ Rẫy: 2023-2024</li></ul>"
+      },
+      {
+        "title": "CHỨNG CHỈ/CHỨNG NHẬN",
+        "content": "<ul><li>ESHRE course: Essential knowledge: The andrology lab: analysis, preparation, freezing and decision-making</li><li>ASRM course: Abnormal semen analysis: is this a sign of testicular pathology?</li><li>Kho&aacute; đ&agrave;o tạo chuy&ecirc;n s&acirc;u về Nam khoa của hội Tiết niệu ch&acirc;u &Acirc;u (EAU)</li><li>UROwebninar: The azospermic man become a father: From the outpatient clinic to the operating theatre</li><li>UROwebinar: Administrations of hormones in infertile males: Indications, the EAU guidelines and expectations</li><li>UROwebinar: Administrations of hormones in infertile males: Indications, the EAU guidelines and expectations</li></ul>"
+      },
+      {
+        "title": "HỘI VIÊN CỦA CÁC HIỆP HỘI",
+        "content": "<ul><li>Hội vi&ecirc;n hội Tiết niệu &ndash; Thận học Th&agrave;nh phố Hồ Ch&iacute; Minh (HUNA)</li></ul>"
+      }
+    ]
+  }
 }

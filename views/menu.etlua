@@ -3,6 +3,7 @@
                       <li class="menu-item"> <a href="#">Trang Chủ</a></li>
                       <!-- <li class="menu-item"> <a href="services">Dịch Vụ</a></li> -->
                       <li class="menu-item"><a href="team">Đội Ngũ Bác Sĩ</a></li>
+                      <li class="menu-item"><a href="gallery">Hình Ảnh</a></li>
                       <li class="menu-item"> <a href="#">Y học thường thức</a>
                         <div class="megamenu megamenu-fullwidth megamenu-position-left">
                           <div class="megamenu-row">

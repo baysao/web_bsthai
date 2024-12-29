@@ -1,0 +1,266 @@
+<div class="main-content-area">
+  <!-- <section class="page-title layer-overlay overlay-dark-9 section-typo-light bg-img-center" data-tm-bg-img="images/bg/bg1.jpg">
+    <div class="container pt-50 pb-50">
+    <div class="section-content">
+    <div class="row">
+    <div class="col-md-12 text-center">
+    <h2 class="title">Gallery 3 Col Masonry</h2>
+    <nav class="breadcrumbs" role="navigation" aria-label="Breadcrumbs">
+    <div class="breadcrumbs">
+    <span><a href="#" rel="home">Home</a></span>
+    <span><i class="fa fa-angle-right"></i></span>
+    <span><a href="#">Pages</a></span>
+    <span><i class="fa fa-angle-right"></i></span>
+    <span class="active">Page Title</span>
+    </div>
+    </nav>
+    </div>
+    </div>
+    </div>
+    </div>
+    </section> -->
+
+  <section>
+    <div class="container">
+      <div class="section-content">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="tm-sc-gallery tm-sc-gallery-grid gallery-style1-basic">
+              <div class="isotope-layout-filter filter-style-4 text-left cat-filter-default text-center"
+                data-link-with="gallery-holder-618422">
+                <a href="#" class="active" data-filter="*">All</a>
+                <% for i, gallery in ipairs(gallery_list) do %>
+                  <a href="#" class data-filter=".<%- gallery.group %>">
+                    <%- gallery.name %>
+                  </a>
+                  <% end %>
+                    <!-- <a href="#" class data-filter=".cat2">Hội Nghị</a> -->
+                    <!-- <a href="#" class data-filter=".cat3">Cat3</a> -->
+              </div>
+
+              <div id="gallery-holder-618422"
+                class="isotope-layout masonry grid-3 gutter-15 clearfix lightgallery-lightbox">
+                <div class="isotope-layout-inner">
+                  <div class="isotope-item isotope-item-sizer"></div>
+                  <% for i, gallery in ipairs(gallery_list) do %>
+                  <% for j, link in ipairs(gallery.data) do %>
+                    <div class="isotope-item <%- gallery.group %>">
+                      <div class="isotope-item-inner">
+                        <div class="tm-gallery">
+                          <div class="tm-gallery-inner">
+                            <div class="thumb">
+                              <a href="#">
+                                <img width="672" height="448" src="<%- link.url %>" class
+                                  alt="images" />
+                              </a>
+                            </div>
+                            <div class="tm-gallery-content-wrapper">
+                              <div class="tm-gallery-content">
+                                <div class="tm-gallery-content-inner">
+                                  <div class="icons-holder-inner">
+                                    <div class="styled-icons icon-dark icon-circled icon-theme-colored1">
+                                      <a class="lightgallery-trigger styled-icons-item"
+                                        data-exthumbimage="<%- link.url %>"
+                                        data-src="<%- link.url %>" title="<%- gallery.name %>"
+                                        href="<%- link.url %>"><i class="fa fa-plus"></i></a>
+                                      <a class="styled-icons-item" title="<%- gallery.name %>" href="#"><i
+                                          class="fa fa-link"></i></a>
+                                    </div>
+                                  </div>
+                                  <div class="title-holder">
+                                    <h5 class="title">
+                                      <a href="#"><%- gallery.name %></a>
+                                    </h5>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <% end %>
+                    <% end %>
+                      <!-- <div class="isotope-item cat1 cat3">
+                    <div class="isotope-item-inner">
+                      <div class="tm-gallery">
+                        <div class="tm-gallery-inner">
+                          <div class="thumb">
+                            <a href="#">
+                              <img width="672" height="448" src="images/shop/portfolio-sq3.jpg" class alt="images" />
+                            </a>
+                          </div>
+                          <div class="tm-gallery-content-wrapper">
+                            <div class="tm-gallery-content">
+                              <div class="tm-gallery-content-inner">
+                                <div class="icons-holder-inner">
+                                  <div class="styled-icons icon-dark icon-circled icon-theme-colored1">
+                                    <a class="lightgallery-trigger styled-icons-item"
+                                      data-exthumbimage="images/shop/portfolio-sq3.jpg"
+                                      data-src="images/shop/portfolio-sq1.jpg" title="Gallery 3"
+                                      href="images/shop/portfolio-sq3.jpg"><i class="fa fa-plus"></i></a>
+                                    <a class="styled-icons-item" title="Gallery 3" href="#"><i
+                                        class="fa fa-link"></i></a>
+                                  </div>
+                                </div>
+                                <div class="title-holder">
+                                  <h5 class="title">
+                                    <a href="#">Gallery 3</a>
+                                  </h5>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="isotope-item cat2 cat3">
+                    <div class="isotope-item-inner">
+                      <div class="tm-gallery">
+                        <div class="tm-gallery-inner">
+                          <div class="thumb">
+                            <a href="#">
+                              <img width="672" height="448" src="images/shop/portfolio-tall12.jpg" class alt="images" />
+                            </a>
+                          </div>
+                          <div class="tm-gallery-content-wrapper">
+                            <div class="tm-gallery-content">
+                              <div class="tm-gallery-content-inner">
+                                <div class="icons-holder-inner">
+                                  <div class="styled-icons icon-dark icon-circled icon-theme-colored1">
+                                    <a class="lightgallery-trigger styled-icons-item"
+                                      data-exthumbimage="images/shop/portfolio-tall12.jpg"
+                                      data-src="images/shop/portfolio-tall12.jpg" title="Gallery 2"
+                                      href="images/shop/portfolio-tall12.jpg"><i class="fa fa-plus"></i></a>
+                                    <a class="styled-icons-item" title="Gallery 2" href="#"><i
+                                        class="fa fa-link"></i></a>
+                                  </div>
+                                </div>
+                                <div class="title-holder">
+                                  <h5 class="title">
+                                    <a href="#">Gallery 2</a>
+                                  </h5>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="isotope-item cat2 cat3">
+                    <div class="isotope-item-inner">
+                      <div class="tm-gallery">
+                        <div class="tm-gallery-inner">
+                          <div class="thumb">
+                            <a href="#">
+                              <img width="672" height="448" src="images/shop/portfolio-tall1.jpg" class alt="images" />
+                            </a>
+                          </div>
+                          <div class="tm-gallery-content-wrapper">
+                            <div class="tm-gallery-content">
+                              <div class="tm-gallery-content-inner">
+                                <div class="icons-holder-inner">
+                                  <div class="styled-icons icon-dark icon-circled icon-theme-colored1">
+                                    <a class="lightgallery-trigger styled-icons-item"
+                                      data-exthumbimage="images/shop/portfolio-tall1.jpg"
+                                      data-src="images/shop/portfolio-tall1.jpg" title="Gallery 1"
+                                      href="images/shop/portfolio-tall1.jpg"><i class="fa fa-plus"></i></a>
+                                    <a class="styled-icons-item" title="Gallery 1" href="#"><i
+                                        class="fa fa-link"></i></a>
+                                  </div>
+                                </div>
+                                <div class="title-holder">
+                                  <h5 class="title">
+                                    <a href="#">Gallery 2</a>
+                                  </h5>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="isotope-item cat2 cat3">
+                    <div class="isotope-item-inner">
+                      <div class="tm-gallery">
+                        <div class="tm-gallery-inner">
+                          <div class="thumb">
+                            <a href="#">
+                              <img width="672" height="448" src="images/shop/portfolio-sq2.jpg" class alt="images" />
+                            </a>
+                          </div>
+                          <div class="tm-gallery-content-wrapper">
+                            <div class="tm-gallery-content">
+                              <div class="tm-gallery-content-inner">
+                                <div class="icons-holder-inner">
+                                  <div class="styled-icons icon-dark icon-circled icon-theme-colored1">
+                                    <a class="lightgallery-trigger styled-icons-item"
+                                      data-exthumbimage="images/shop/portfolio-sq2.jpg"
+                                      data-src="images/shop/portfolio-sq2.jpg" title="Gallery 2"
+                                      href="images/shop/portfolio-sq2.jpg"><i class="fa fa-plus"></i></a>
+                                    <a class="styled-icons-item" title="Gallery 2" href="#"><i
+                                        class="fa fa-link"></i></a>
+                                  </div>
+                                </div>
+                                <div class="title-holder">
+                                  <h5 class="title">
+                                    <a href="#">Gallery 2</a>
+                                  </h5>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="isotope-item cat1 cat2">
+                    <div class="isotope-item-inner">
+                      <div class="tm-gallery">
+                        <div class="tm-gallery-inner">
+                          <div class="thumb">
+                            <a href="#">
+                              <img width="672" height="448" src="images/shop/portfolio-sq1.jpg" class alt="images" />
+                            </a>
+                          </div>
+                          <div class="tm-gallery-content-wrapper">
+                            <div class="tm-gallery-content">
+                              <div class="tm-gallery-content-inner">
+                                <div class="icons-holder-inner">
+                                  <div class="styled-icons icon-dark icon-circled icon-theme-colored1">
+                                    <a class="lightgallery-trigger styled-icons-item"
+                                      data-exthumbimage="images/shop/portfolio-sq1.jpg"
+                                      data-src="images/shop/portfolio-sq1.jpg" title="Gallery 1"
+                                      href="images/shop/portfolio-sq1.jpg"><i class="fa fa-plus"></i></a>
+                                    <a class="styled-icons-item" title="Gallery 1" href="#"><i
+                                        class="fa fa-link"></i></a>
+                                  </div>
+                                </div>
+                                <div class="title-holder">
+                                  <h5 class="title">
+                                    <a href="#">Gallery 1</a>
+                                  </h5>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div> -->
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
