@@ -29,11 +29,11 @@
                                 <li class="menu-item">
                                   <a class="tm-submenu-title" href="#"><span>Tiết niệu học</span></a>
                                   <ul class="list-unstyled">
-                                    <li><a href="faq">Sỏi đường tiết niệu</a></li>
-                                    <li><a href="faq">Bệnh lý tuyến tiền liệt</a></li>
-                                    <li><a href="faq">Bàng quang tăng hoạt</a></li>
-                                    <li><a href="faq">Ung bướu đường tiết niệu</a></li>
-                                    <li><a href="faq">Viêm nhiễm đường tiết niệu</a></li>
+                                    <li><a href="/faq/soi-duong-tiet-nieu">Sỏi đường tiết niệu</a></li>
+                                    <li><a href="/faq/benh-ly-tuyen-tien-liet">Bệnh lý tuyến tiền liệt</a></li>
+                                    <li><a href="/faq/bang-quang-tang-hoat">Bàng quang tăng hoạt</a></li>
+                                    <li><a href="/faq/ung-buou-duong-tiet-nieu">Ung bướu đường tiết niệu</a></li>
+                                    <li><a href="/faq/viem-nhiem-duong-tiet-nieu">Viêm nhiễm đường tiết niệu</a></li>
                                   
                                   </ul>
                                 </li>
@@ -44,11 +44,9 @@
                                 <li class="menu-item">
                                   <a class="tm-submenu-title" href="#"><span>LGBTQ+</span></a>
                                   <ul class="list-unstyled">
-                                    <li><a href="faq">Hỗ trợ tâm lý</a></li>
-                                    <li><a href="faq">Tầm soát, phòng ngừa bệnh lây truyền qua đường tình dục</a></li>
-                                    <li><a href="faq">Hormone liệu pháp</a></li>
-                                   
-                                  
+                                    <li><a href="/faq/ho-tro-tam-ly">Hỗ trợ tâm lý</a></li>
+                                    <li><a href="/faq/tam-soat-phong-ngua">Tầm soát, phòng ngừa bệnh lây truyền qua đường tình dục</a></li>
+                                    <li><a href="/faq/hormone-lieu-phap">Hormone liệu pháp</a></li>
                                   </ul>
                                 </li>
                               </ul>
