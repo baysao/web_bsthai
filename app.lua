@@ -43,9 +43,10 @@ app:get(
     end
 )
 app:get(
-    "/faq",
+    "/faq/:name",
     function(self)
         self.current_view = "views.faq"
+        self.post = db["posts" .. "/"..self.params.name .. ".json"]
         return {render = "index"}
     end
 )

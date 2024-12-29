@@ -1,9 +1,9 @@
   <ul id="main-nav" class="menuzord-menu">
   
-                      <li class="menu-item"> <a href="#">Trang Chủ</a></li>
+                      <li class="menu-item"> <a href="/">Trang Chủ</a></li>
                       <!-- <li class="menu-item"> <a href="services">Dịch Vụ</a></li> -->
-                      <li class="menu-item"><a href="team">Đội Ngũ Bác Sĩ</a></li>
-                      <li class="menu-item"><a href="gallery">Hình Ảnh</a></li>
+                      <li class="menu-item"><a href="/team">Đội Ngũ Bác Sĩ</a></li>
+                      <li class="menu-item"><a href="/gallery">Hình Ảnh</a></li>
                       <li class="menu-item"> <a href="#">Y học thường thức</a>
                         <div class="megamenu megamenu-fullwidth megamenu-position-left">
                           <div class="megamenu-row">
@@ -12,13 +12,13 @@
                                 <li class="menu-item">
                                   <a class="tm-submenu-title" href="#"><span>Nam giới học</span></a>
                                   <ul class="list-unstyled">
-                                    <li><a href="faq">Vô sinh - hiếm muộn</a></li>
-                                    <li><a href="faq">Bệnh lý bao quy đầu</a></li>
-                                    <li><a href="faq">Bệnh lây truyền qua đường tình dục</a></li>
-                                    <li><a href="faq">Rối loạn cương</a></li>
-                                    <li><a href="faq">Tránh thai, kế hoạch hoá gia đình</a></li>
-                                    <li><a href="faq">Giảm ham muốn</a></li>
-                                    <li><a href="faq">Xuất tinh sớm</a></li>
+                                    <li><a href="/faq/vo-sinh-hiem-muon">Vô sinh - hiếm muộn</a></li>
+                                    <li><a href="/faq/benh-ly-bao-qui-dau">Bệnh lý bao quy đầu</a></li>
+                                    <li><a href="/faq/benh-lay-truyen-qua-duong-tinh-duc">Bệnh lây truyền qua đường tình dục</a></li>
+                                    <li><a href="/faq/roi-loan-cuong">Rối loạn cương</a></li>
+                                    <li><a href="/faq/tranh-thai-ke-hoach-hoa-gia-dinh">Tránh thai, kế hoạch hoá gia đình</a></li>
+                                    <li><a href="/faq/giam-ham-muon">Giảm ham muốn</a></li>
+                                    <li><a href="/faq/xuat-tinh-som">Xuất tinh sớm</a></li>
                                     
                                   </ul>
                                 </li>
