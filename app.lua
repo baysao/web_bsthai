@@ -5,6 +5,11 @@ app:enable("etlua")
 app.layout = require("views.index")
 local flatdb = require("flatjsondb")
 local db = flatdb("./db")
+function app:handle_error(err, trace)
+    return "There was an error"
+  end
+  
+
 app:get(
     "/services",
     function(self)
