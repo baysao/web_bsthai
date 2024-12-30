@@ -6,7 +6,7 @@
   <meta name="keywords" content="Hiếm muộn,Nam giới học,Tiết niệu, chẩn đoán,điều trị, clinic, coronavirus, corporate, dental, dentist, doctor, hospital, medical," />
   <meta name="author" content="baysao" />
 
-  <title>Phòng khám Nam khoa Tiết niệu TS Thái</title>
+  <title><%= seo_title or  "Phòng khám Nam khoa Tiết niệu TS Thái" %></title>
 
   <link href="/images/favicon.png" rel="shortcut icon" type="image/png">
   <link href="/images/apple-touch-icon.png" rel="apple-touch-icon">

@@ -1,6 +1,7 @@
 local lapis = require("lapis")
 local json = require("cjson")
 local app = lapis.Application()
+local pk = "Phòng khám Nam khoa Tiết niệu TS Thái"
 app:enable("etlua")
 app.layout = require("views.index")
 local flatdb = require("flatjsondb")
@@ -14,6 +15,7 @@ app:get(
     "/services",
     function(self)
         self.current_view = "views.services"
+        self.seo_title = "Dịch vụ"
         return {render = "index"}
     end
 )
@@ -21,6 +23,7 @@ app:get(
     "/team",
     function(self)
         self.current_view = "views.team"
+        self.seo_title = "Thành viên - " .. pk
         local _m = db["member.json"]
         local _t = {}
         for k, v in pairs(_m) do
@@ -42,7 +45,7 @@ app:get(
         self.current_view = "views.member"
         -- ngx.log(ngx.ERR, self.params.member)
         self.member = db["member.json"][self.params.member]
-       
+        self.seo_title = self.member.title .. " " .. self.member.name .. " - " .. pk
         
         return {render = "index"}
     end
@@ -51,7 +54,10 @@ app:get(
     "/faq/:name",
     function(self)
         self.current_view = "views.faq"
+        
         self.post = db["posts" .. "/"..self.params.name .. ".json"]
+        self.seo_title = self.post.sections[1].title .. " - " .. pk
+       
         return {render = "index"}
     end
 )
@@ -59,7 +65,8 @@ app:get(
     "/gallery",
     function(self)
         self.gallery_list = db["gallery.json"]
-        ngx.log(ngx.ERR, json.encode(self.gallery_list))
+        self.seo_title = "Hình Ảnh - " .. pk
+        -- ngx.log(ngx.ERR, json.encode(self.gallery_list))
         self.current_view = "views.gallery"
         return {render = "index"}
     end
